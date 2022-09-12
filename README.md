@@ -2,7 +2,8 @@
 
 I am **Hannah Ehrlich**. Here is a little about me:
 
-* I am a third-year student at [New York University](https://www.nyu.edu/) pursuing a degree Economics 📓 
-* I am pursuing minors in Data Science, Business Studies, Math and ASL 🤟
+* I am a senior at [New York University](https://www.nyu.edu/) pursuing a degree Economics 📓 
+* I am pursuing minors in Data Science, Math and ASL 🤟
+* I enjoy cooking and learning about new food pairings and recipes 🍲
 * I enjoy scoring baseball games and learning more about Sabermetrics ⚾
-* I am a NY Giants, Rangers, Mets, and Knicks fan
+* I am a NYMets, Rangers, Knicks and Giants fan 🏈
